@@ -94,24 +94,24 @@
     "e343b9c0-f1d8-46dc-9965-11af71a6f7c0": {
       "id": "e343b9c0-f1d8-46dc-9965-11af71a6f7c0",
       "position": [
-        -2.279543475244714,
-        -0.0015675082137879004,
-        -8.649966978638774e-17
+        -0.5731879616936982,
+        2.1189041774965287e-17,
+        -0.0019630095123401516
       ],
       "rotation": [
-        -4.052314039881821e-15,
-        2.1555078856657992e-17,
-        1.0430648193937693e-17,
-        1
+        0.7071067811865446,
+        7.866160358449086e-18,
+        2.2617324498658196e-17,
+        0.7071067811865505
       ],
       "scale": [
-        1.1747632046799787,
-        0.9639519915946482,
-        1.1465630257905426
+        0.2936908011699947,
+        0.24098799789866204,
+        0.28664075644763565
       ],
       "geometry": null,
       "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "b743bf5e-1806-4ec8-9bc9-33a1ed63aeb0",
       "components": {
         "7e3a7a8f-57cb-4427-9056-595687c21d51": {
           "id": "7e3a7a8f-57cb-4427-9056-595687c21d51",
@@ -171,9 +171,9 @@
     "7aa7ebbe-14bb-4e8c-9225-c559b50491df": {
       "id": "7aa7ebbe-14bb-4e8c-9225-c559b50491df",
       "position": [
-        -2.0393458387252155,
+        -3.407550026742012,
         1.759460517671376,
-        -0.708834713605849
+        1.9930167070277918
       ],
       "rotation": [
         0,
@@ -310,6 +310,138 @@
         "name": "PresentacionJuanPro"
       },
       "order": 16.254248174010776
+    },
+    "8a17427f-d666-4c07-a5c8-3a947d0c1ad7": {
+      "id": "8a17427f-d666-4c07-a5c8-3a947d0c1ad7",
+      "position": [
+        0,
+        2.7387014663382736,
+        -0.8970457339550585
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {
+        "d5e99067-64b1-4bda-8f2c-5057e16a5ce4": {
+          "id": "d5e99067-64b1-4bda-8f2c-5057e16a5ce4",
+          "name": "abrir-link",
+          "parameters": {
+            "link": "https://github.com/JuanGonzalezAr"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 100,
+        "image": {
+          "type": "asset",
+          "asset": "assets/GHubIcon.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "name": "Imagen",
+      "order": 24.28145727406269
+    },
+    "54fb56c2-899e-48c0-9c77-30de7c72847d": {
+      "id": "54fb56c2-899e-48c0-9c77-30de7c72847d",
+      "position": [
+        1.21834363758847,
+        2.8059927250919197,
+        -0.902616197707087
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {
+        "157f0ed6-6638-445a-b58b-16342f7ca676": {
+          "id": "157f0ed6-6638-445a-b58b-16342f7ca676",
+          "name": "abrir-link",
+          "parameters": {
+            "link": "https://www.instagram.com/juansgonz_/"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 100,
+        "image": {
+          "type": "asset",
+          "asset": "assets/iNSTAGRM.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "name": "Imagen",
+      "order": 25.742226665654517
+    },
+    "e4e8a9e5-fce8-4f27-aa23-465241f7635c": {
+      "id": "e4e8a9e5-fce8-4f27-aa23-465241f7635c",
+      "position": [
+        -1.2555647437163229,
+        2.7837919449698783,
+        -0.9223212909044224
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {
+        "ec613575-e9ff-475b-a8a7-95887f460961": {
+          "id": "ec613575-e9ff-475b-a8a7-95887f460961",
+          "name": "abrir-link",
+          "parameters": {
+            "link": "https://www.figma.com/files/team/1381970347806872270/user/1529627270557949533?fuid=1529627270557949533"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 100,
+        "image": {
+          "type": "asset",
+          "asset": "assets/FgmaIcon.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "name": "Imagen",
+      "order": 27.20818194108729
     }
   },
   "spaces": {
