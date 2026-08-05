@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 47,
+    "left": 0,
+    "width": 1240,
+    "height": 1653,
+    "isRotated": false,
+    "originalWidth": 1240,
+    "originalHeight": 1748
+  },
+  "imagePath": "image-targets/PresentacionJuanPro_luminance.png",
+  "metadata": null,
+  "name": "PresentacionJuanPro",
+  "resources": {
+    "originalImage": "PresentacionJuanPro_original.png",
+    "croppedImage": "PresentacionJuanPro_cropped.png",
+    "thumbnailImage": "PresentacionJuanPro_thumbnail.png",
+    "luminanceImage": "PresentacionJuanPro_luminance.png"
+  },
+  "created": 1785936978710,
+  "updated": 1785936978710
+}
