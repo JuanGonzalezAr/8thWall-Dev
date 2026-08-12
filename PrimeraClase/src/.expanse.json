@@ -504,7 +504,12 @@
         "30725220-b683-416e-943d-fff31ae1d33f": {
           "id": "30725220-b683-416e-943d-fff31ae1d33f",
           "name": "Play Video",
-          "parameters": {}
+          "parameters": {
+            "target": {
+              "type": "entity",
+              "id": "bfda9184-1a0d-4f7e-84fe-35ea25dfd0e9"
+            }
+          }
         }
       },
       "ui": {
